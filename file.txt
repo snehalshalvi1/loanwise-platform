@@ -1,2 +1,1 @@
-Hello
-Ancestor line
+line1:original content
