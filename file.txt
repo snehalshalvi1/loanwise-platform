@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 line1:original content
 libe2 :added in ancestor
 line 3:feature branch change
 Line 3: Master branch change
+=======
+Hello
+Ancestor line
+Feature change
+>>>>>>> feature
